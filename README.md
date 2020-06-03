@@ -4,6 +4,8 @@ A project stub template for python projects with CI integration and pre-commit h
 
 ## Initializing a New Repository
 
+This step is unnecessary if creating from a template.
+
 First, create a bare new repository and get the git URL. (e.g. `git@github.com:nnamon/testnew.git`)
 
 Next, clone [python-stub](https://github.com/nnamon/python-stub) repository to your local file
